@@ -1,0 +1,976 @@
+2020-06-03 11:59:02,984  INFO [main] TestBase:31 - Created HTML Report in the path: C:\Users\aparn\eclipse-workspace\FreeCRMTest\ExecutionReports\ExecutionReport_FreeCRMPro_2020-06-03T11_59_02_812.html
+2020-06-03 11:59:11,349  INFO [main] TestBase:31 - Trying to navigate to url: https://classic.crmpro.com/
+2020-06-03 11:59:18,126  INFO [main] TestBase:31 - Intended to navigate to url: https://classic.crmpro.com/, navigated to: https://classic.crmpro.com/
+2020-06-03 11:59:21,041  INFO [main] TestBase:31 - Starting method: verifyPageTitle
+2020-06-03 11:59:21,061  INFO [main] TestBase:31 - Page title as expected. 
+2020-06-03 11:59:21,061  INFO [main] TestBase:31 - Completed Method: verifyPageTitle
+2020-06-03 11:59:21,061  INFO [main] TestBase:31 - Starting method: verifyLogoImage
+2020-06-03 11:59:21,061  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //img[contains(@src, 'logo.png')]
+2020-06-03 11:59:21,107  INFO [main] TestBase:31 - Found the element using By.xpath: //img[contains(@src, 'logo.png')]
+2020-06-03 11:59:21,219  INFO [main] TestBase:31 - Logo image visible in Login Page. 
+2020-06-03 11:59:21,219  INFO [main] TestBase:31 - Completed Method: verifyLogoImage
+2020-06-03 11:59:21,219  INFO [main] TestBase:31 - Starting method: verifyLinksPresence
+2020-06-03 11:59:21,235  INFO [main] TestBase:31 - Trying to find the element using By.tagName: a
+2020-06-03 11:59:21,304  INFO [main] TestBase:31 - Found the element using By.tagName: a
+2020-06-03 11:59:21,342  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,357  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,357  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,373  INFO [main] TestBase:31 - Fetched value 'Home' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,373  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,389  INFO [main] TestBase:31 - Fetched value 'Sign Up' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,404  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,404  INFO [main] TestBase:31 - Fetched value 'Pricing' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,420  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,420  INFO [main] TestBase:31 - Fetched value 'Features' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,420  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,442  INFO [main] TestBase:31 - Fetched value 'Customers' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,442  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,442  INFO [main] TestBase:31 - Fetched value 'Contact' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,442  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,458  INFO [main] TestBase:31 - Fetched value 'Selenium Jobs' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,458  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,473  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,489  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,505  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,505  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,520  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,520  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,520  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,536  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,542  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,542  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,558  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,558  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,574  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,589  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,605  INFO [main] TestBase:31 - Fetched value 'Privacy Policy' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,605  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,605  INFO [main] TestBase:31 - Fetched value 'Terms & Conditions' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,605  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,620  INFO [main] TestBase:31 - Fetched value 'Forgot Password?' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,620  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,636  INFO [main] TestBase:31 - Fetched value 'English (US)' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,636  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,643  INFO [main] TestBase:31 - Fetched value 'Español' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,643  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,658  INFO [main] TestBase:31 - Fetched value 'French (France)' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,658  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,674  INFO [main] TestBase:31 - Fetched value '??(??)' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,674  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,689  INFO [main] TestBase:31 - Fetched value '??(??)' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,689  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,705  INFO [main] TestBase:31 - Fetched value '???????' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,705  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,721  INFO [main] TestBase:31 - Fetched value 'Português (Brasil)' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,721  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,736  INFO [main] TestBase:31 - Fetched value 'Român?' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,736  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,743  INFO [main] TestBase:31 - Fetched value '???????' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,743  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,759  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> tag name: a]
+2020-06-03 11:59:21,759  INFO [main] TestBase:31 - All of these links are displayed on the page: Home,Sign Up,Pricing,Features,Customers,Contact
+2020-06-03 11:59:21,759  INFO [main] TestBase:31 - Completed Method: verifyLinksPresence
+2020-06-03 11:59:21,759  INFO [main] TestBase:31 - Starting method: verifyPageCenterText
+2020-06-03 11:59:21,759  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id='slide_1']/h1[@class='skrollable skrollable-between']
+2020-06-03 11:59:21,774  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id='slide_1']/h1[@class='skrollable skrollable-between']
+2020-06-03 11:59:21,774  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> xpath: //div[@id='slide_1']/h1[@class='skrollable skrollable-between']]
+2020-06-03 11:59:21,790  INFO [main] TestBase:31 - Fetched value 'Power up your sales, customer service, and marketing' from element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> xpath: //div[@id='slide_1']/h1[@class='skrollable skrollable-between']]
+2020-06-03 11:59:21,790  INFO [main] TestBase:31 - Page center text is as expected
+2020-06-03 11:59:21,790  INFO [main] TestBase:31 - Completed Method: verifyPageCenterText
+2020-06-03 11:59:21,790  INFO [main] TestBase:31 - Starting method: verifyLinksDisplayed
+2020-06-03 11:59:21,790  INFO [main] TestBase:31 - Trying to start the script window.scrollTo(0,0)
+2020-06-03 11:59:21,821  INFO [main] TestBase:31 - Completed the script 'window.scrollTo(0,0)'
+2020-06-03 11:59:21,821  INFO [main] TestBase:31 - Trying to start the script var body = document.body,html = document.documentElement;return Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight );
+2020-06-03 11:59:21,843  INFO [main] TestBase:31 - Completed the script 'var body = document.body,html = document.documentElement;return Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight );'
+2020-06-03 11:59:21,843  INFO [main] TestBase:31 - Trying to find the element using By.linkText: Privacy Policy
+2020-06-03 11:59:21,937  INFO [main] TestBase:31 - Found the element using By.linkText: Privacy Policy
+2020-06-03 11:59:21,990  INFO [main] TestBase:31 - Trying to find the element using By.linkText: Terms & Conditions
+2020-06-03 11:59:22,075  INFO [main] TestBase:31 - Found the element using By.linkText: Terms & Conditions
+2020-06-03 11:59:22,144  INFO [main] TestBase:31 - Trying to find the element using By.linkText: Forgot Password?
+2020-06-03 11:59:22,244  INFO [main] TestBase:31 - Found the element using By.linkText: Forgot Password?
+2020-06-03 11:59:22,306  INFO [main] TestBase:31 - Trying to find the element using By.linkText: English (US)
+2020-06-03 11:59:22,407  INFO [main] TestBase:31 - Found the element using By.linkText: English (US)
+2020-06-03 11:59:22,460  INFO [main] TestBase:31 - Trying to find the element using By.linkText: Español
+2020-06-03 11:59:22,545  INFO [main] TestBase:31 - Found the element using By.linkText: Español
+2020-06-03 11:59:22,639  INFO [main] TestBase:31 - All the links are correctly displayed on the page
+2020-06-03 11:59:22,639  INFO [main] TestBase:31 - Completed Method: verifyLinksDisplayed
+2020-06-03 11:59:22,645  INFO [main] TestBase:31 - Starting method: loginUnsuccessful
+2020-06-03 11:59:22,645  INFO [main] TestBase:31 - Trying to find the element using By.name: username
+2020-06-03 11:59:22,661  INFO [main] TestBase:31 - Found the element using By.name: username
+2020-06-03 11:59:22,708  INFO [main] TestBase:31 - Before value: , expected to be set to: aparna12.rao
+2020-06-03 11:59:22,823  INFO [main] TestBase:31 - Intended to set value: aparna12.rao, value that has been set: aparna12.rao
+2020-06-03 11:59:22,823  INFO [main] TestBase:31 - Trying to find the element using By.name: password
+2020-06-03 11:59:22,877  INFO [main] TestBase:31 - Found the element using By.name: password
+2020-06-03 11:59:22,908  INFO [main] TestBase:31 - Before value: , expected to be set to: 
+2020-06-03 11:59:22,977  INFO [main] TestBase:31 - Intended to set value: , value that has been set: 
+2020-06-03 11:59:22,977  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id='preloader']
+2020-06-03 11:59:23,008  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id='preloader']
+2020-06-03 11:59:23,046  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type="submit"]
+2020-06-03 11:59:23,062  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type="submit"]
+2020-06-03 11:59:23,062  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> xpath: //input[@type="submit"]]
+2020-06-03 11:59:28,404  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> xpath: //input[@type="submit"]]
+2020-06-03 11:59:28,422  INFO [main] TestBase:31 - Login unsuccessful as expected. 
+2020-06-03 11:59:28,423  INFO [main] TestBase:31 - Completed Method: loginUnsuccessful
+2020-06-03 11:59:28,425  INFO [main] TestBase:31 - Starting method: loginToApplication
+2020-06-03 11:59:28,428  INFO [main] TestBase:31 - Trying to find the element using By.name: username
+2020-06-03 11:59:28,452  INFO [main] TestBase:31 - Found the element using By.name: username
+2020-06-03 11:59:28,485  INFO [main] TestBase:31 - Before value: , expected to be set to: batchautomation
+2020-06-03 11:59:28,582  INFO [main] TestBase:31 - Intended to set value: batchautomation, value that has been set: batchautomation
+2020-06-03 11:59:28,583  INFO [main] TestBase:31 - Trying to find the element using By.name: password
+2020-06-03 11:59:28,628  INFO [main] TestBase:31 - Found the element using By.name: password
+2020-06-03 11:59:28,661  INFO [main] TestBase:31 - Before value: , expected to be set to: Test@12345
+2020-06-03 11:59:28,901  INFO [main] TestBase:31 - Intended to set value: Test@12345, value that has been set: Test@12345
+2020-06-03 11:59:28,902  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id='preloader']
+2020-06-03 11:59:28,920  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id='preloader']
+2020-06-03 11:59:29,535  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type="submit"]
+2020-06-03 11:59:29,555  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type="submit"]
+2020-06-03 11:59:29,556  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> xpath: //input[@type="submit"]]
+2020-06-03 11:59:36,080  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (27be9489-a1b5-48ca-a128-7155d6904b86)] -> xpath: //input[@type="submit"]]
+2020-06-03 11:59:36,090  INFO [main] TestBase:31 - Login successful. Page title as expected
+2020-06-03 11:59:36,091  INFO [main] TestBase:31 - Completed Method: loginToApplication
+2020-06-03 11:59:43,193 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-06-03 11:59:43,200 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-06-03 11:59:43,200 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-06-03 11:59:43,200 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-06-03 11:59:43,200 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aparn/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-06-03 11:59:51,444  INFO [main] TestBase:31 - Trying to navigate to url: https://classic.crmpro.com/
+2020-06-03 11:59:57,386  INFO [main] TestBase:31 - Intended to navigate to url: https://classic.crmpro.com/, navigated to: https://classic.crmpro.com/
+2020-06-03 11:59:57,565  INFO [main] TestBase:31 - Trying to find the element using By.name: username
+2020-06-03 11:59:57,583  INFO [main] TestBase:31 - Found the element using By.name: username
+2020-06-03 11:59:57,635  INFO [main] TestBase:31 - Before value: , expected to be set to: batchautomation
+2020-06-03 11:59:57,743  INFO [main] TestBase:31 - Intended to set value: batchautomation, value that has been set: batchautomation
+2020-06-03 11:59:57,746  INFO [main] TestBase:31 - Trying to find the element using By.name: password
+2020-06-03 11:59:57,768  INFO [main] TestBase:31 - Found the element using By.name: password
+2020-06-03 11:59:57,816  INFO [main] TestBase:31 - Before value: , expected to be set to: Test@12345
+2020-06-03 11:59:57,904  INFO [main] TestBase:31 - Intended to set value: Test@12345, value that has been set: Test@12345
+2020-06-03 11:59:57,904  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id='preloader']
+2020-06-03 11:59:57,923  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id='preloader']
+2020-06-03 11:59:58,550  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type="submit"]
+2020-06-03 11:59:58,572  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type="submit"]
+2020-06-03 11:59:58,572  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> xpath: //input[@type="submit"]]
+2020-06-03 12:00:05,732  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> xpath: //input[@type="submit"]]
+2020-06-03 12:00:05,776  INFO [main] TestBase:31 - Login to application completed. 
+2020-06-03 12:00:05,776  INFO [main] TestBase:31 - Starting method: verifyPageTitle
+2020-06-03 12:00:05,776  INFO [main] TestBase:31 - Home Page title as expected. 
+2020-06-03 12:00:05,776  INFO [main] TestBase:31 - Completed Method: verifyPageTitle
+2020-06-03 12:00:05,792  INFO [main] TestBase:31 - Starting method: verifyLoggedInUser
+2020-06-03 12:00:05,792  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //td[contains(text(),'Demo User')]
+2020-06-03 12:00:05,817  INFO [main] TestBase:31 - Found the element using By.xpath: //td[contains(text(),'Demo User')]
+2020-06-03 12:00:05,848  INFO [main] TestBase:31 - Expected logged in user is displayed on the page. 
+2020-06-03 12:00:05,848  INFO [main] TestBase:31 - Completed Method: verifyLoggedInUser
+2020-06-03 12:00:05,848  INFO [main] TestBase:31 - Starting method: addBoxAndVerify
+2020-06-03 12:00:05,848  INFO [main] TestBase:31 - Trying to find the element using By.partialLinkText: Add Boxes
+2020-06-03 12:00:06,017  INFO [main] TestBase:31 - Found the element using By.partialLinkText: Add Boxes
+2020-06-03 12:00:06,080  INFO [main] TestBase:31 - Trying to find the element using By.partialLinkText: Add Boxes
+2020-06-03 12:00:06,202  INFO [main] TestBase:31 - Found the element using By.partialLinkText: Add Boxes
+2020-06-03 12:00:06,249  INFO [main] TestBase:31 - Trying to find the element using By.partialLinkText: Add Boxes
+2020-06-03 12:00:06,365  INFO [main] TestBase:31 - Found the element using By.partialLinkText: Add Boxes
+2020-06-03 12:00:06,403  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> partial link text: Add Boxes]
+2020-06-03 12:00:06,434  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> partial link text: Add Boxes]
+2020-06-03 12:00:06,434  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id="ibox_footer"]
+2020-06-03 12:00:06,450  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id="ibox_footer"]
+2020-06-03 12:00:06,981  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id="ibox_footer"]
+2020-06-03 12:00:06,999  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id="ibox_footer"]
+2020-06-03 12:00:07,536  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id="ibox_footer"]
+2020-06-03 12:00:07,552  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id="ibox_footer"]
+2020-06-03 12:00:07,605  INFO [main] TestBase:31 - Trying to find the element using By.id: box_id
+2020-06-03 12:00:07,621  INFO [main] TestBase:31 - Found the element using By.id: box_id
+2020-06-03 12:00:07,637  INFO [main] TestBase:31 - Trying to find the element using By.xpath: .//option[normalize-space(.) = "Quick Create Form"]
+2020-06-03 12:00:07,652  INFO [main] TestBase:31 - Found the element using By.xpath: .//option[normalize-space(.) = "Quick Create Form"]
+2020-06-03 12:00:07,668  INFO [main] TestBase:31 - Trying to click on element [[[[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> id: box_id]] -> xpath: .//option[normalize-space(.) = "Quick Create Form"]]
+2020-06-03 12:00:07,899  INFO [main] TestBase:31 - Clicked on element [[[[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> id: box_id]] -> xpath: .//option[normalize-space(.) = "Quick Create Form"]]
+2020-06-03 12:00:07,899  INFO [main] TestBase:31 - Trying to find the element using By.id: column
+2020-06-03 12:00:07,921  INFO [main] TestBase:31 - Found the element using By.id: column
+2020-06-03 12:00:07,937  INFO [main] TestBase:31 - Trying to find the element using By.xpath: .//option[normalize-space(.) = "Center Column"]
+2020-06-03 12:00:07,952  INFO [main] TestBase:31 - Found the element using By.xpath: .//option[normalize-space(.) = "Center Column"]
+2020-06-03 12:00:07,952  INFO [main] TestBase:31 - Trying to click on element [[[[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> id: column]] -> xpath: .//option[normalize-space(.) = "Center Column"]]
+2020-06-03 12:00:08,184  INFO [main] TestBase:31 - Clicked on element [[[[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> id: column]] -> xpath: .//option[normalize-space(.) = "Center Column"]]
+2020-06-03 12:00:08,184  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='button'][@value='Add']
+2020-06-03 12:00:08,205  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='button'][@value='Add']
+2020-06-03 12:00:08,237  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='button'][@value='Add']
+2020-06-03 12:00:08,252  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='button'][@value='Add']
+2020-06-03 12:00:08,284  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> xpath: //input[@type='button'][@value='Add']]
+2020-06-03 12:00:08,522  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> xpath: //input[@type='button'][@value='Add']]
+2020-06-03 12:00:08,522  INFO [main] TestBase:31 - Trying to find the element using By.partialLinkText: Add Boxes
+2020-06-03 12:00:08,638  INFO [main] TestBase:31 - Found the element using By.partialLinkText: Add Boxes
+2020-06-03 12:00:08,669  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id='homeColumnCenter']/div[@id='homebox_QUICKCREATE']
+2020-06-03 12:00:10,728  INFO [main] TestBase:31 - Exception occured: Unable to locate element: //div[@id='homeColumnCenter']/div[@id='homebox_QUICKCREATE']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-JOPOHLMU', ip: '192.168.43.175', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 76.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200507114007, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 9008, moz:profile: C:\Users\aparn\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d107d595-8ada-4ac6-b3e1-b46aa924d72c
+*** Element info: {Using=xpath, value=//div[@id='homeColumnCenter']/div[@id='homebox_QUICKCREATE']}
+2020-06-03 12:00:10,729  INFO [main] TestBase:31 - Trying to take screenshot. 
+2020-06-03 12:00:10,787  INFO [main] TestBase:31 - Screenshot taken
+2020-06-03 12:00:10,847  INFO [main] TestBase:31 - Exception occured: org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@id='homeColumnCenter']/div[@id='homebox_QUICKCREATE']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-JOPOHLMU', ip: '192.168.43.175', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 76.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200507114007, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 9008, moz:profile: C:\Users\aparn\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d107d595-8ada-4ac6-b3e1-b46aa924d72c
+*** Element info: {Using=xpath, value=//div[@id='homeColumnCenter']/div[@id='homebox_QUICKCREATE']}. Screenshot path: C:\Users\aparn\eclipse-workspace\FreeCRMTest/screenshots/1591165810802.png
+2020-06-03 12:00:11,348  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id='homeColumnCenter']/div[@id='homebox_QUICKCREATE']
+2020-06-03 12:00:11,723  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id='homeColumnCenter']/div[@id='homebox_QUICKCREATE']
+2020-06-03 12:00:11,723  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id='homeColumnCenter']/div[@id='homebox_QUICKCREATE']
+2020-06-03 12:00:11,734  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id='homeColumnCenter']/div[@id='homebox_QUICKCREATE']
+2020-06-03 12:00:11,771  INFO [main] TestBase:31 - 'Quick Create Form' added successfully
+2020-06-03 12:00:11,771  INFO [main] TestBase:31 - Completed Method: addBoxAndVerify
+2020-06-03 12:00:11,772  INFO [main] TestBase:31 - Starting method: searchInHome
+2020-06-03 12:00:12,775  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@class='select'][@type='text']
+2020-06-03 12:00:12,784  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@class='select'][@type='text']
+2020-06-03 12:00:12,803  INFO [main] TestBase:31 - Before value: Quick Search, expected to be set to: ?a
+2020-06-03 12:00:12,840  INFO [main] TestBase:31 - Intended to set value: ?a, value that has been set: 
+2020-06-03 12:00:12,858  INFO [main] TestBase:31 - Before value: , expected to be set to: ?
+2020-06-03 12:00:12,884  INFO [main] TestBase:31 - Intended to set value: ?, value that has been set: 
+2020-06-03 12:00:12,900  INFO [main] TestBase:31 - Before value: , expected to be set to: abcd
+2020-06-03 12:00:12,935  INFO [main] TestBase:31 - Intended to set value: abcd, value that has been set: abcd
+2020-06-03 12:00:12,947  INFO [main] TestBase:31 - Trying to find the element using By.name: search_target
+2020-06-03 12:00:12,955  INFO [main] TestBase:31 - Found the element using By.name: search_target
+2020-06-03 12:00:12,976  INFO [main] TestBase:31 - Trying to find the element using By.xpath: .//option[normalize-space(.) = "CRM"]
+2020-06-03 12:00:12,986  INFO [main] TestBase:31 - Found the element using By.xpath: .//option[normalize-space(.) = "CRM"]
+2020-06-03 12:00:12,993  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[contains(@src, 'search.gif')]
+2020-06-03 12:00:13,001  INFO [main] TestBase:31 - Found the element using By.xpath: //input[contains(@src, 'search.gif')]
+2020-06-03 12:00:13,036  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[contains(@src, 'search.gif')]
+2020-06-03 12:00:13,042  INFO [main] TestBase:31 - Found the element using By.xpath: //input[contains(@src, 'search.gif')]
+2020-06-03 12:00:13,090  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> xpath: //input[contains(@src, 'search.gif')]]
+2020-06-03 12:00:15,014  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (d107d595-8ada-4ac6-b3e1-b46aa924d72c)] -> xpath: //input[contains(@src, 'search.gif')]]
+2020-06-03 12:00:15,026  INFO [main] TestBase:31 - Completed search without any exceptions. 
+2020-06-03 12:00:15,027  INFO [main] TestBase:31 - Completed Method: searchInHome
+2020-06-03 12:00:20,766 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-06-03 12:00:20,770 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-06-03 12:00:20,770 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-06-03 12:00:20,771 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-06-03 12:00:20,771 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aparn/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-06-03 12:00:26,863  INFO [main] TestBase:31 - Trying to navigate to url: https://classic.crmpro.com/
+2020-06-03 12:00:33,050  INFO [main] TestBase:31 - Intended to navigate to url: https://classic.crmpro.com/, navigated to: https://classic.crmpro.com/
+2020-06-03 12:00:33,209  INFO [main] TestBase:31 - Trying to find the element using By.name: username
+2020-06-03 12:00:33,231  INFO [main] TestBase:31 - Found the element using By.name: username
+2020-06-03 12:00:33,278  INFO [main] TestBase:31 - Before value: , expected to be set to: batchautomation
+2020-06-03 12:00:33,389  INFO [main] TestBase:31 - Intended to set value: batchautomation, value that has been set: batchautomation
+2020-06-03 12:00:33,390  INFO [main] TestBase:31 - Trying to find the element using By.name: password
+2020-06-03 12:00:33,399  INFO [main] TestBase:31 - Found the element using By.name: password
+2020-06-03 12:00:33,427  INFO [main] TestBase:31 - Before value: , expected to be set to: Test@12345
+2020-06-03 12:00:33,556  INFO [main] TestBase:31 - Intended to set value: Test@12345, value that has been set: Test@12345
+2020-06-03 12:00:33,556  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@id='preloader']
+2020-06-03 12:00:33,582  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@id='preloader']
+2020-06-03 12:00:34,172  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type="submit"]
+2020-06-03 12:00:34,193  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type="submit"]
+2020-06-03 12:00:34,193  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type="submit"]]
+2020-06-03 12:00:41,164  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type="submit"]]
+2020-06-03 12:00:41,233  INFO [main] TestBase:31 - Login to application completed. 
+2020-06-03 12:00:41,233  INFO [main] TestBase:31 - Starting method: addNewContact
+2020-06-03 12:00:41,233  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //a[@title='Contacts']
+2020-06-03 12:00:41,249  INFO [main] TestBase:31 - Found the element using By.xpath: //a[@title='Contacts']
+2020-06-03 12:00:41,465  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //a[@title='New Contact']
+2020-06-03 12:00:41,480  INFO [main] TestBase:31 - Found the element using By.xpath: //a[@title='New Contact']
+2020-06-03 12:00:41,534  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //a[@title='New Contact']]
+2020-06-03 12:00:43,475  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //a[@title='New Contact']]
+2020-06-03 12:00:43,475  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //select[@class='select'][@name='title']
+2020-06-03 12:00:43,486  INFO [main] TestBase:31 - Found the element using By.xpath: //select[@class='select'][@name='title']
+2020-06-03 12:00:43,486  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@id='first_name']
+2020-06-03 12:00:43,513  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@id='first_name']
+2020-06-03 12:00:43,528  INFO [main] TestBase:31 - Before value: , expected to be set to: ?a
+2020-06-03 12:00:43,575  INFO [main] TestBase:31 - Intended to set value: ?a, value that has been set: 
+2020-06-03 12:00:43,597  INFO [main] TestBase:31 - Before value: , expected to be set to: ?
+2020-06-03 12:00:43,628  INFO [main] TestBase:31 - Intended to set value: ?, value that has been set: 
+2020-06-03 12:00:43,644  INFO [main] TestBase:31 - Before value: , expected to be set to: Aparna
+2020-06-03 12:00:43,697  INFO [main] TestBase:31 - Intended to set value: Aparna, value that has been set: Aparna
+2020-06-03 12:00:43,713  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='radio'][@name='receive_email'][@value='N']
+2020-06-03 12:00:43,729  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='radio'][@name='receive_email'][@value='N']
+2020-06-03 12:00:43,760  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='radio'][@name='receive_email'][@value='N']
+2020-06-03 12:00:43,791  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='radio'][@name='receive_email'][@value='N']
+2020-06-03 12:00:43,829  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='radio'][@name='receive_email'][@value='N']]
+2020-06-03 12:00:44,061  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='radio'][@name='receive_email'][@value='N']]
+2020-06-03 12:00:44,061  INFO [main] TestBase:31 - Trying to find the element using By.id: f_trigger_c_birthday
+2020-06-03 12:00:44,076  INFO [main] TestBase:31 - Found the element using By.id: f_trigger_c_birthday
+2020-06-03 12:00:44,130  INFO [main] TestBase:31 - Trying to find the element using By.id: f_trigger_c_birthday
+2020-06-03 12:00:44,145  INFO [main] TestBase:31 - Found the element using By.id: f_trigger_c_birthday
+2020-06-03 12:00:44,176  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> id: f_trigger_c_birthday]
+2020-06-03 12:00:44,430  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> id: f_trigger_c_birthday]
+2020-06-03 12:00:44,430  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]
+2020-06-03 12:00:44,445  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]
+2020-06-03 12:00:44,445  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']
+2020-06-03 12:00:44,461  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']
+2020-06-03 12:00:44,461  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:44,477  INFO [main] TestBase:31 - Fetched value 'June, 2020' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:44,484  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div
+2020-06-03 12:00:44,499  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div
+2020-06-03 12:00:44,499  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:44,731  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:45,733  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:45,752  INFO [main] TestBase:31 - Fetched value 'June, 2019' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:45,752  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:45,980  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:46,983  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:46,986  INFO [main] TestBase:31 - Fetched value 'June, 2018' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:46,986  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:47,221  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:48,227  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:48,230  INFO [main] TestBase:31 - Fetched value 'June, 2017' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:48,246  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:48,474  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:49,476  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:49,479  INFO [main] TestBase:31 - Fetched value 'June, 2016' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:49,479  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:49,707  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:50,713  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:50,735  INFO [main] TestBase:31 - Fetched value 'June, 2015' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:50,735  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:50,983  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:51,990  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:51,991  INFO [main] TestBase:31 - Fetched value 'June, 2014' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:51,991  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:52,243  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:53,258  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:53,260  INFO [main] TestBase:31 - Fetched value 'June, 2013' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:53,275  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:53,505  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:54,506  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:54,508  INFO [main] TestBase:31 - Fetched value 'June, 2012' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:54,508  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:54,738  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:55,752  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:55,754  INFO [main] TestBase:31 - Fetched value 'June, 2011' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:55,754  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:55,989  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:57,005  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:57,009  INFO [main] TestBase:31 - Fetched value 'June, 2010' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:57,024  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:57,253  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:58,255  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:58,258  INFO [main] TestBase:31 - Fetched value 'June, 2009' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:58,258  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:58,487  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:59,499  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:59,505  INFO [main] TestBase:31 - Fetched value 'June, 2008' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:00:59,505  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:00:59,736  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:00,740  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:00,742  INFO [main] TestBase:31 - Fetched value 'June, 2007' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:00,742  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:00,971  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:01,975  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:01,977  INFO [main] TestBase:31 - Fetched value 'June, 2006' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:01,977  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:02,212  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:03,223  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:03,230  INFO [main] TestBase:31 - Fetched value 'June, 2005' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:03,230  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:03,464  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:04,467  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:04,471  INFO [main] TestBase:31 - Fetched value 'June, 2004' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:04,471  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:04,714  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:05,730  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:05,733  INFO [main] TestBase:31 - Fetched value 'June, 2003' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:05,733  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:05,967  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:06,975  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:06,978  INFO [main] TestBase:31 - Fetched value 'June, 2002' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:06,978  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:07,223  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:08,228  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:08,229  INFO [main] TestBase:31 - Fetched value 'June, 2001' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:08,229  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:08,459  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:09,464  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:09,470  INFO [main] TestBase:31 - Fetched value 'June, 2000' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:09,470  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:09,702  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:10,705  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:10,707  INFO [main] TestBase:31 - Fetched value 'June, 1999' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:10,707  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:10,937  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:11,940  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:12,009  INFO [main] TestBase:31 - Fetched value 'June, 1998' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:12,009  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:12,241  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:13,243  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:13,245  INFO [main] TestBase:31 - Fetched value 'June, 1997' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:13,245  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:13,474  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:14,478  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:14,485  INFO [main] TestBase:31 - Fetched value 'June, 1996' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:14,485  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:14,716  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:15,720  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:15,722  INFO [main] TestBase:31 - Fetched value 'June, 1995' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:15,722  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:15,967  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:16,970  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:16,972  INFO [main] TestBase:31 - Fetched value 'June, 1994' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:16,972  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:17,208  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:18,214  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:18,216  INFO [main] TestBase:31 - Fetched value 'June, 1993' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:18,216  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:18,462  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:19,469  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:19,472  INFO [main] TestBase:31 - Fetched value 'June, 1992' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:19,472  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:19,701  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:20,704  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:20,710  INFO [main] TestBase:31 - Fetched value 'June, 1991' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:20,710  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:20,942  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:21,944  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:21,946  INFO [main] TestBase:31 - Fetched value 'June, 1990' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:21,946  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:22,175  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:23,187  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:23,188  INFO [main] TestBase:31 - Fetched value 'June, 1989' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:23,188  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:23,418  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div]
+2020-06-03 12:01:24,418  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:24,420  INFO [main] TestBase:31 - Fetched value 'June, 1988' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:24,420  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[2]/div
+2020-06-03 12:01:24,440  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[2]/div
+2020-06-03 12:01:24,440  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[2]/div]
+2020-06-03 12:01:24,672  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[2]/div]
+2020-06-03 12:01:25,672  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:25,674  INFO [main] TestBase:31 - Fetched value 'May, 1988' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:25,674  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[2]/div]
+2020-06-03 12:01:25,903  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[2]/div]
+2020-06-03 12:01:26,903  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:26,906  INFO [main] TestBase:31 - Fetched value 'April, 1988' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:26,906  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[2]/div]
+2020-06-03 12:01:27,135  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[2]/div]
+2020-06-03 12:01:28,137  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:28,139  INFO [main] TestBase:31 - Fetched value 'March, 1988' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']]
+2020-06-03 12:01:28,139  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr
+2020-06-03 12:01:28,159  INFO [main] TestBase:31 - Found the element using By.xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr
+2020-06-03 12:01:28,159  INFO [main] TestBase:31 - Trying to find the element using By.tagName: td
+2020-06-03 12:01:28,175  INFO [main] TestBase:31 - Found the element using By.tagName: td
+2020-06-03 12:01:28,175  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,175  INFO [main] TestBase:31 - Fetched value '8' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,175  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,190  INFO [main] TestBase:31 - Fetched value '' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,190  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,190  INFO [main] TestBase:31 - Fetched value '' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,190  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,190  INFO [main] TestBase:31 - Fetched value '1' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,190  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,206  INFO [main] TestBase:31 - Fetched value '2' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,206  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,206  INFO [main] TestBase:31 - Fetched value '3' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,206  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,221  INFO [main] TestBase:31 - Fetched value '4' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,221  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,221  INFO [main] TestBase:31 - Fetched value '5' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,221  INFO [main] TestBase:31 - Trying to find the element using By.tagName: td
+2020-06-03 12:01:28,237  INFO [main] TestBase:31 - Found the element using By.tagName: td
+2020-06-03 12:01:28,237  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,237  INFO [main] TestBase:31 - Fetched value '9' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,275  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,290  INFO [main] TestBase:31 - Fetched value '6' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,290  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,290  INFO [main] TestBase:31 - Fetched value '7' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,290  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,290  INFO [main] TestBase:31 - Fetched value '8' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,290  INFO [main] TestBase:31 - Trying to get text value from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,306  INFO [main] TestBase:31 - Fetched value '9' from element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,322  INFO [main] TestBase:31 - Trying to click on element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,553  INFO [main] TestBase:31 - Clicked on element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //div[@class='calendar'][contains(@style, 'block')]/table/tbody/tr]] -> tag name: td]
+2020-06-03 12:01:28,553  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]
+2020-06-03 12:01:28,575  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]
+2020-06-03 12:01:28,606  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]
+2020-06-03 12:01:28,622  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]
+2020-06-03 12:01:28,660  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]]
+2020-06-03 12:01:29,092  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]]
+2020-06-03 12:01:29,092  INFO [main] TestBase:31 - Trying to switch to window 6442450963
+2020-06-03 12:01:29,108  INFO [main] TestBase:31 - Intended to switch to window '6442450963', navigated to window '6442450963
+2020-06-03 12:01:29,408  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //span[@header='help_header']
+2020-06-03 12:01:29,415  INFO [main] TestBase:31 - Found the element using By.xpath: //span[@header='help_header']
+2020-06-03 12:01:29,415  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //span[@header='help_header']]
+2020-06-03 12:01:29,446  INFO [main] TestBase:31 - Fetched value 'Company lookup' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //span[@header='help_header']]
+2020-06-03 12:01:29,446  INFO [main] TestBase:31 - Trying to find the element using By.id: search
+2020-06-03 12:01:29,477  INFO [main] TestBase:31 - Found the element using By.id: search
+2020-06-03 12:01:29,493  INFO [main] TestBase:31 - Before value: , expected to be set to: ?a
+2020-06-03 12:01:29,524  INFO [main] TestBase:31 - Intended to set value: ?a, value that has been set: 
+2020-06-03 12:01:29,540  INFO [main] TestBase:31 - Before value: , expected to be set to: ?
+2020-06-03 12:01:29,577  INFO [main] TestBase:31 - Intended to set value: ?, value that has been set: 
+2020-06-03 12:01:29,593  INFO [main] TestBase:31 - Before value: , expected to be set to: Google
+2020-06-03 12:01:29,624  INFO [main] TestBase:31 - Intended to set value: Google, value that has been set: Google
+2020-06-03 12:01:29,640  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='submit'][@value='Search']
+2020-06-03 12:01:29,655  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='submit'][@value='Search']
+2020-06-03 12:01:29,709  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='submit'][@value='Search']
+2020-06-03 12:01:29,724  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='submit'][@value='Search']
+2020-06-03 12:01:29,762  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='submit'][@value='Search']]
+2020-06-03 12:01:30,202  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='submit'][@value='Search']]
+2020-06-03 12:01:31,203  INFO [main] TestBase:31 - Trying to find the element using By.linkText: Google
+2020-06-03 12:01:31,237  INFO [main] TestBase:31 - Found the element using By.linkText: Google
+2020-06-03 12:02:12,213  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> link text: Google]
+2020-06-03 12:02:12,278  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> link text: Google]
+2020-06-03 12:02:12,278  INFO [main] TestBase:31 - Trying to switch to window 18
+2020-06-03 12:02:12,309  INFO [main] TestBase:31 - Intended to switch to window '18', navigated to window '18
+2020-06-03 12:02:12,309  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@id='surname']
+2020-06-03 12:02:12,329  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@id='surname']
+2020-06-03 12:02:12,376  INFO [main] TestBase:31 - Before value: , expected to be set to: ?a
+2020-06-03 12:02:12,477  INFO [main] TestBase:31 - Intended to set value: ?a, value that has been set: 
+2020-06-03 12:02:12,514  INFO [main] TestBase:31 - Before value: , expected to be set to: ?
+2020-06-03 12:02:12,546  INFO [main] TestBase:31 - Intended to set value: ?, value that has been set: 
+2020-06-03 12:02:12,577  INFO [main] TestBase:31 - Before value: , expected to be set to: Manjunath
+2020-06-03 12:02:12,630  INFO [main] TestBase:31 - Intended to set value: Manjunath, value that has been set: Manjunath
+2020-06-03 12:02:12,646  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //select[@name='suffix']
+2020-06-03 12:02:12,662  INFO [main] TestBase:31 - Found the element using By.xpath: //select[@name='suffix']
+2020-06-03 12:02:12,677  INFO [main] TestBase:31 - Trying to find the element using By.xpath: .//option[normalize-space(.) = "PhD"]
+2020-06-03 12:02:12,693  INFO [main] TestBase:31 - Found the element using By.xpath: .//option[normalize-space(.) = "PhD"]
+2020-06-03 12:02:12,693  INFO [main] TestBase:31 - Trying to click on element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //select[@name='suffix']]] -> xpath: .//option[normalize-space(.) = "PhD"]]
+2020-06-03 12:02:12,931  INFO [main] TestBase:31 - Clicked on element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //select[@name='suffix']]] -> xpath: .//option[normalize-space(.) = "PhD"]]
+2020-06-03 12:02:12,931  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //select[@class='select'][@name='title']
+2020-06-03 12:02:12,947  INFO [main] TestBase:31 - Found the element using By.xpath: //select[@class='select'][@name='title']
+2020-06-03 12:02:12,963  INFO [main] TestBase:31 - Trying to find the element using By.xpath: .//option[normalize-space(.) = "Mrs."]
+2020-06-03 12:02:12,978  INFO [main] TestBase:31 - Found the element using By.xpath: .//option[normalize-space(.) = "Mrs."]
+2020-06-03 12:02:12,978  INFO [main] TestBase:31 - Trying to click on element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //select[@class='select'][@name='title']]] -> xpath: .//option[normalize-space(.) = "Mrs."]]
+2020-06-03 12:02:13,210  INFO [main] TestBase:31 - Clicked on element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //select[@class='select'][@name='title']]] -> xpath: .//option[normalize-space(.) = "Mrs."]]
+2020-06-03 12:02:13,210  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='submit'][@value='Save']
+2020-06-03 12:02:13,232  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='submit'][@value='Save']
+2020-06-03 12:02:13,286  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='submit'][@value='Save']
+2020-06-03 12:02:13,301  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='submit'][@value='Save']
+2020-06-03 12:02:13,332  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='submit'][@value='Save']]
+2020-06-03 12:02:16,955  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='submit'][@value='Save']]
+2020-06-03 12:02:16,955  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //a[@title='Contacts']
+2020-06-03 12:02:16,958  INFO [main] TestBase:31 - Found the element using By.xpath: //a[@title='Contacts']
+2020-06-03 12:02:16,989  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //a[@title='Contacts']
+2020-06-03 12:02:17,021  INFO [main] TestBase:31 - Found the element using By.xpath: //a[@title='Contacts']
+2020-06-03 12:02:17,070  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //a[@title='Contacts']]
+2020-06-03 12:02:18,542  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //a[@title='Contacts']]
+2020-06-03 12:02:18,542  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //td[@class='a2z']
+2020-06-03 12:02:18,593  INFO [main] TestBase:31 - Found the element using By.xpath: //td[@class='a2z']
+2020-06-03 12:02:18,593  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:18,608  INFO [main] TestBase:31 - Fetched value 'All' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:18,608  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:18,624  INFO [main] TestBase:31 - Fetched value 'Num' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:18,624  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:18,642  INFO [main] TestBase:31 - Fetched value 'A' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:18,642  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:20,007  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:20,007  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[@class='datacardtitle']/table/tbody/tr[1]/td[@class='datacardtitle'][@align='left']
+2020-06-03 12:02:20,045  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[@class='datacardtitle']/table/tbody/tr[1]/td[@class='datacardtitle'][@align='left']
+2020-06-03 12:02:20,045  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[@class='datacardtitle']/table/tbody/tr[1]/td[@class='datacardtitle'][@align='left']]
+2020-06-03 12:02:20,060  INFO [main] TestBase:31 - Fetched value '-A- Contacts (showing only contacts beginning with A. Use the letters above to show contacts by different first letter)' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[@class='datacardtitle']/table/tbody/tr[1]/td[@class='datacardtitle'][@align='left']]
+2020-06-03 12:02:20,060  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a
+2020-06-03 12:02:20,076  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a
+2020-06-03 12:02:20,076  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr
+2020-06-03 12:02:20,092  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr
+2020-06-03 12:02:20,092  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[2]/a
+2020-06-03 12:02:22,115  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[2]/a
+2020-06-03 12:02:22,115  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[2]/a
+2020-06-03 12:02:24,141  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[2]/a
+2020-06-03 12:02:24,141  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a
+2020-06-03 12:02:24,179  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a
+2020-06-03 12:02:24,179  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a]
+2020-06-03 12:02:24,194  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a]
+2020-06-03 12:02:24,194  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a
+2020-06-03 12:02:24,210  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a
+2020-06-03 12:02:24,210  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a]
+2020-06-03 12:02:24,210  INFO [main] TestBase:31 - Fetched value 'aaaaaaa aaaaaa' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a]
+2020-06-03 12:02:24,210  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a
+2020-06-03 12:02:24,241  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a
+2020-06-03 12:02:24,241  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a]
+2020-06-03 12:02:24,241  INFO [main] TestBase:31 - Fetched value 'Aaharah Varun' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a]
+2020-06-03 12:02:24,241  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a
+2020-06-03 12:02:24,279  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a
+2020-06-03 12:02:24,279  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a]
+2020-06-03 12:02:24,294  INFO [main] TestBase:31 - Fetched value 'AARAAH Nikit' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a]
+2020-06-03 12:02:24,294  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a
+2020-06-03 12:02:24,310  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a
+2020-06-03 12:02:24,310  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a]
+2020-06-03 12:02:24,310  INFO [main] TestBase:31 - Fetched value 'Aashiq Limbu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a]
+2020-06-03 12:02:24,310  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a
+2020-06-03 12:02:24,341  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a
+2020-06-03 12:02:24,341  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a]
+2020-06-03 12:02:24,341  INFO [main] TestBase:31 - Fetched value 'abhi sahu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a]
+2020-06-03 12:02:24,341  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a
+2020-06-03 12:02:24,357  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a
+2020-06-03 12:02:24,357  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a]
+2020-06-03 12:02:24,363  INFO [main] TestBase:31 - Fetched value 'abhi' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a]
+2020-06-03 12:02:24,363  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a
+2020-06-03 12:02:24,379  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a
+2020-06-03 12:02:24,379  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a]
+2020-06-03 12:02:24,379  INFO [main] TestBase:31 - Fetched value 'abhilasha Sharma' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a]
+2020-06-03 12:02:24,379  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a
+2020-06-03 12:02:24,395  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a
+2020-06-03 12:02:24,395  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a]
+2020-06-03 12:02:24,410  INFO [main] TestBase:31 - Fetched value 'abhilasha Sharma' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a]
+2020-06-03 12:02:24,410  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a
+2020-06-03 12:02:24,426  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a
+2020-06-03 12:02:24,426  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a]
+2020-06-03 12:02:24,442  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a]
+2020-06-03 12:02:24,442  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a
+2020-06-03 12:02:24,457  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a
+2020-06-03 12:02:24,457  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a]
+2020-06-03 12:02:24,464  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a]
+2020-06-03 12:02:24,464  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a
+2020-06-03 12:02:24,479  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a
+2020-06-03 12:02:24,479  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a]
+2020-06-03 12:02:24,495  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a]
+2020-06-03 12:02:24,495  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a
+2020-06-03 12:02:24,511  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a
+2020-06-03 12:02:24,511  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a]
+2020-06-03 12:02:24,511  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a]
+2020-06-03 12:02:24,511  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a
+2020-06-03 12:02:24,526  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a
+2020-06-03 12:02:24,526  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a]
+2020-06-03 12:02:24,526  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a]
+2020-06-03 12:02:24,526  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a
+2020-06-03 12:02:24,542  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a
+2020-06-03 12:02:24,542  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a]
+2020-06-03 12:02:24,542  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a]
+2020-06-03 12:02:24,542  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[18]/td[2]/a
+2020-06-03 12:02:24,558  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[18]/td[2]/a
+2020-06-03 12:02:24,558  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[18]/td[2]/a]
+2020-06-03 12:02:24,564  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[18]/td[2]/a]
+2020-06-03 12:02:24,564  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[19]/td[2]/a
+2020-06-03 12:02:24,580  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[19]/td[2]/a
+2020-06-03 12:02:24,580  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[19]/td[2]/a]
+2020-06-03 12:02:24,580  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[19]/td[2]/a]
+2020-06-03 12:02:24,580  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[20]/td[2]/a
+2020-06-03 12:02:24,595  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[20]/td[2]/a
+2020-06-03 12:02:24,595  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[20]/td[2]/a]
+2020-06-03 12:02:24,595  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[20]/td[2]/a]
+2020-06-03 12:02:24,595  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[21]/td[2]/a
+2020-06-03 12:02:24,611  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[21]/td[2]/a
+2020-06-03 12:02:24,611  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[21]/td[2]/a]
+2020-06-03 12:02:24,611  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[21]/td[2]/a]
+2020-06-03 12:02:24,611  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[22]/td[2]/a
+2020-06-03 12:02:24,627  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[22]/td[2]/a
+2020-06-03 12:02:24,627  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[22]/td[2]/a]
+2020-06-03 12:02:24,627  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[22]/td[2]/a]
+2020-06-03 12:02:24,627  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[23]/td[2]/a
+2020-06-03 12:02:24,642  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[23]/td[2]/a
+2020-06-03 12:02:24,642  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[23]/td[2]/a]
+2020-06-03 12:02:24,642  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[23]/td[2]/a]
+2020-06-03 12:02:24,642  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[24]/td[2]/a
+2020-06-03 12:02:24,658  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[24]/td[2]/a
+2020-06-03 12:02:24,658  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[24]/td[2]/a]
+2020-06-03 12:02:24,664  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[24]/td[2]/a]
+2020-06-03 12:02:24,664  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[25]/td[2]/a
+2020-06-03 12:02:26,691  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[25]/td[2]/a
+2020-06-03 12:02:26,691  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a]
+2020-06-03 12:02:29,058  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a]
+2020-06-03 12:02:29,058  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr
+2020-06-03 12:02:29,080  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr
+2020-06-03 12:02:29,080  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[2]/a
+2020-06-03 12:02:31,107  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[2]/a
+2020-06-03 12:02:31,110  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[2]/a
+2020-06-03 12:02:33,134  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[2]/a
+2020-06-03 12:02:33,134  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a
+2020-06-03 12:02:33,155  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a
+2020-06-03 12:02:33,155  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a]
+2020-06-03 12:02:33,170  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a]
+2020-06-03 12:02:33,170  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a
+2020-06-03 12:02:33,186  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a
+2020-06-03 12:02:33,186  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a]
+2020-06-03 12:02:33,186  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a]
+2020-06-03 12:02:33,186  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a
+2020-06-03 12:02:33,203  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a
+2020-06-03 12:02:33,203  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a]
+2020-06-03 12:02:33,203  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a]
+2020-06-03 12:02:33,203  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a
+2020-06-03 12:02:33,234  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a
+2020-06-03 12:02:33,234  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a]
+2020-06-03 12:02:33,234  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a]
+2020-06-03 12:02:33,234  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a
+2020-06-03 12:02:33,250  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a
+2020-06-03 12:02:33,250  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a]
+2020-06-03 12:02:33,250  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a]
+2020-06-03 12:02:33,250  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a
+2020-06-03 12:02:33,265  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a
+2020-06-03 12:02:33,265  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a]
+2020-06-03 12:02:33,265  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a]
+2020-06-03 12:02:33,265  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a
+2020-06-03 12:02:33,281  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a
+2020-06-03 12:02:33,281  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a]
+2020-06-03 12:02:33,281  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a]
+2020-06-03 12:02:33,281  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a
+2020-06-03 12:02:33,297  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a
+2020-06-03 12:02:33,303  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a]
+2020-06-03 12:02:33,303  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a]
+2020-06-03 12:02:33,303  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a
+2020-06-03 12:02:33,319  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a
+2020-06-03 12:02:33,319  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a]
+2020-06-03 12:02:33,334  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a]
+2020-06-03 12:02:33,334  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a
+2020-06-03 12:02:33,350  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a
+2020-06-03 12:02:33,350  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a]
+2020-06-03 12:02:33,350  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a]
+2020-06-03 12:02:33,350  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a
+2020-06-03 12:02:33,366  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a
+2020-06-03 12:02:33,366  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a]
+2020-06-03 12:02:33,366  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a]
+2020-06-03 12:02:33,366  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a
+2020-06-03 12:02:33,381  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a
+2020-06-03 12:02:33,381  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a]
+2020-06-03 12:02:33,381  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a]
+2020-06-03 12:02:33,381  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a
+2020-06-03 12:02:33,397  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a
+2020-06-03 12:02:33,397  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a]
+2020-06-03 12:02:33,403  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a]
+2020-06-03 12:02:33,403  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a
+2020-06-03 12:02:33,419  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a
+2020-06-03 12:02:33,419  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a]
+2020-06-03 12:02:33,419  INFO [main] TestBase:31 - Fetched value 'Anubhi Golechha' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a]
+2020-06-03 12:02:33,419  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a
+2020-06-03 12:02:33,450  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a
+2020-06-03 12:02:33,450  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a]
+2020-06-03 12:02:33,450  INFO [main] TestBase:31 - Fetched value 'Aparna Manjunath' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a]
+2020-06-03 12:02:33,450  INFO [main] TestBase:31 - New contact added successfully
+2020-06-03 12:02:33,450  INFO [main] TestBase:31 - Completed Method: addNewContact
+2020-06-03 12:02:33,466  INFO [main] TestBase:31 - Starting method: editContact
+2020-06-03 12:02:33,466  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //td[@class='a2z']
+2020-06-03 12:02:33,482  INFO [main] TestBase:31 - Found the element using By.xpath: //td[@class='a2z']
+2020-06-03 12:02:33,482  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:33,504  INFO [main] TestBase:31 - Fetched value 'All' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:33,504  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:33,504  INFO [main] TestBase:31 - Fetched value 'Num' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:33,504  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:33,519  INFO [main] TestBase:31 - Fetched value 'A' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:33,519  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:35,741  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //td[@class='a2z']]
+2020-06-03 12:02:35,741  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[@class='datacardtitle']/table/tbody/tr[1]/td[@class='datacardtitle'][@align='left']
+2020-06-03 12:02:35,772  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[@class='datacardtitle']/table/tbody/tr[1]/td[@class='datacardtitle'][@align='left']
+2020-06-03 12:02:35,772  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[@class='datacardtitle']/table/tbody/tr[1]/td[@class='datacardtitle'][@align='left']]
+2020-06-03 12:02:35,788  INFO [main] TestBase:31 - Fetched value '-A- Contacts (showing only contacts beginning with A. Use the letters above to show contacts by different first letter)' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[@class='datacardtitle']/table/tbody/tr[1]/td[@class='datacardtitle'][@align='left']]
+2020-06-03 12:02:35,788  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a
+2020-06-03 12:02:35,803  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a
+2020-06-03 12:02:35,810  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr
+2020-06-03 12:02:35,826  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr
+2020-06-03 12:02:35,826  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[2]/a
+2020-06-03 12:02:37,843  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[2]/a
+2020-06-03 12:02:37,849  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[2]/a
+2020-06-03 12:02:39,876  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[2]/a
+2020-06-03 12:02:39,876  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a
+2020-06-03 12:02:39,880  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a
+2020-06-03 12:02:39,880  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a]
+2020-06-03 12:02:39,896  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a]
+2020-06-03 12:02:39,896  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a
+2020-06-03 12:02:39,911  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a
+2020-06-03 12:02:39,911  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a]
+2020-06-03 12:02:39,911  INFO [main] TestBase:31 - Fetched value 'aaaaaaa aaaaaa' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a]
+2020-06-03 12:02:39,911  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a
+2020-06-03 12:02:39,929  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a
+2020-06-03 12:02:39,929  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a]
+2020-06-03 12:02:39,929  INFO [main] TestBase:31 - Fetched value 'Aaharah Varun' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a]
+2020-06-03 12:02:39,929  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a
+2020-06-03 12:02:39,945  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a
+2020-06-03 12:02:39,945  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a]
+2020-06-03 12:02:39,945  INFO [main] TestBase:31 - Fetched value 'AARAAH Nikit' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a]
+2020-06-03 12:02:39,945  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a
+2020-06-03 12:02:39,960  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a
+2020-06-03 12:02:39,960  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a]
+2020-06-03 12:02:39,960  INFO [main] TestBase:31 - Fetched value 'Aashiq Limbu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a]
+2020-06-03 12:02:39,960  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a
+2020-06-03 12:02:39,976  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a
+2020-06-03 12:02:39,976  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a]
+2020-06-03 12:02:39,976  INFO [main] TestBase:31 - Fetched value 'abhi sahu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a]
+2020-06-03 12:02:39,976  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a
+2020-06-03 12:02:40,007  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a
+2020-06-03 12:02:40,007  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a]
+2020-06-03 12:02:40,007  INFO [main] TestBase:31 - Fetched value 'abhi' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a]
+2020-06-03 12:02:40,007  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a
+2020-06-03 12:02:40,023  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a
+2020-06-03 12:02:40,023  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a]
+2020-06-03 12:02:40,029  INFO [main] TestBase:31 - Fetched value 'abhilasha Sharma' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a]
+2020-06-03 12:02:40,029  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a
+2020-06-03 12:02:40,045  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a
+2020-06-03 12:02:40,045  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a]
+2020-06-03 12:02:40,045  INFO [main] TestBase:31 - Fetched value 'abhilasha Sharma' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a]
+2020-06-03 12:02:40,061  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a
+2020-06-03 12:02:40,076  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a
+2020-06-03 12:02:40,076  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a]
+2020-06-03 12:02:40,076  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a]
+2020-06-03 12:02:40,076  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a
+2020-06-03 12:02:40,107  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a
+2020-06-03 12:02:40,107  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a]
+2020-06-03 12:02:40,123  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a]
+2020-06-03 12:02:40,123  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a
+2020-06-03 12:02:40,145  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a
+2020-06-03 12:02:40,145  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a]
+2020-06-03 12:02:40,145  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a]
+2020-06-03 12:02:40,145  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a
+2020-06-03 12:02:40,161  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a
+2020-06-03 12:02:40,161  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a]
+2020-06-03 12:02:40,161  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a]
+2020-06-03 12:02:40,161  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a
+2020-06-03 12:02:40,176  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a
+2020-06-03 12:02:40,176  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a]
+2020-06-03 12:02:40,176  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a]
+2020-06-03 12:02:40,176  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a
+2020-06-03 12:02:40,192  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a
+2020-06-03 12:02:40,192  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a]
+2020-06-03 12:02:40,192  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a]
+2020-06-03 12:02:40,192  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[18]/td[2]/a
+2020-06-03 12:02:40,208  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[18]/td[2]/a
+2020-06-03 12:02:40,208  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[18]/td[2]/a]
+2020-06-03 12:02:40,208  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[18]/td[2]/a]
+2020-06-03 12:02:40,208  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[19]/td[2]/a
+2020-06-03 12:02:40,223  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[19]/td[2]/a
+2020-06-03 12:02:40,223  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[19]/td[2]/a]
+2020-06-03 12:02:40,230  INFO [main] TestBase:31 - Fetched value 'Alley1 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[19]/td[2]/a]
+2020-06-03 12:02:40,230  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[20]/td[2]/a
+2020-06-03 12:02:40,245  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[20]/td[2]/a
+2020-06-03 12:02:40,245  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[20]/td[2]/a]
+2020-06-03 12:02:40,261  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[20]/td[2]/a]
+2020-06-03 12:02:40,261  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[21]/td[2]/a
+2020-06-03 12:02:40,277  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[21]/td[2]/a
+2020-06-03 12:02:40,277  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[21]/td[2]/a]
+2020-06-03 12:02:40,292  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[21]/td[2]/a]
+2020-06-03 12:02:40,292  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[22]/td[2]/a
+2020-06-03 12:02:40,308  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[22]/td[2]/a
+2020-06-03 12:02:40,308  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[22]/td[2]/a]
+2020-06-03 12:02:40,308  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[22]/td[2]/a]
+2020-06-03 12:02:40,308  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[23]/td[2]/a
+2020-06-03 12:02:40,324  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[23]/td[2]/a
+2020-06-03 12:02:40,324  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[23]/td[2]/a]
+2020-06-03 12:02:40,330  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[23]/td[2]/a]
+2020-06-03 12:02:40,330  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[24]/td[2]/a
+2020-06-03 12:02:40,346  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[24]/td[2]/a
+2020-06-03 12:02:40,346  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[24]/td[2]/a]
+2020-06-03 12:02:40,346  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[24]/td[2]/a]
+2020-06-03 12:02:40,346  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[25]/td[2]/a
+2020-06-03 12:02:42,376  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[25]/td[2]/a
+2020-06-03 12:02:42,376  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a]
+2020-06-03 12:02:45,111  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a]
+2020-06-03 12:02:45,111  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr
+2020-06-03 12:02:45,131  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr
+2020-06-03 12:02:45,131  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[2]/a
+2020-06-03 12:02:47,148  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[1]/td[2]/a
+2020-06-03 12:02:47,153  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[2]/a
+2020-06-03 12:02:49,178  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[2]/a
+2020-06-03 12:02:49,178  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a
+2020-06-03 12:02:49,200  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a
+2020-06-03 12:02:49,200  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a]
+2020-06-03 12:02:49,216  INFO [main] TestBase:31 - Fetched value '' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[3]/td[2]/a]
+2020-06-03 12:02:49,216  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a
+2020-06-03 12:02:49,232  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a
+2020-06-03 12:02:49,232  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a]
+2020-06-03 12:02:49,232  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[4]/td[2]/a]
+2020-06-03 12:02:49,232  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a
+2020-06-03 12:02:49,247  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a
+2020-06-03 12:02:49,247  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a]
+2020-06-03 12:02:49,247  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[5]/td[2]/a]
+2020-06-03 12:02:49,247  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a
+2020-06-03 12:02:49,263  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a
+2020-06-03 12:02:49,263  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a]
+2020-06-03 12:02:49,263  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[6]/td[2]/a]
+2020-06-03 12:02:49,263  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a
+2020-06-03 12:02:49,278  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a
+2020-06-03 12:02:49,278  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a]
+2020-06-03 12:02:49,284  INFO [main] TestBase:31 - Fetched value 'Alley2 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[7]/td[2]/a]
+2020-06-03 12:02:49,284  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a
+2020-06-03 12:02:49,300  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a
+2020-06-03 12:02:49,300  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a]
+2020-06-03 12:02:49,316  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[8]/td[2]/a]
+2020-06-03 12:02:49,316  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a
+2020-06-03 12:02:49,331  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a
+2020-06-03 12:02:49,331  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a]
+2020-06-03 12:02:49,331  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[9]/td[2]/a]
+2020-06-03 12:02:49,331  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a
+2020-06-03 12:02:49,347  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a
+2020-06-03 12:02:49,347  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a]
+2020-06-03 12:02:49,347  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[10]/td[2]/a]
+2020-06-03 12:02:49,347  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a
+2020-06-03 12:02:49,363  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a
+2020-06-03 12:02:49,363  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a]
+2020-06-03 12:02:49,378  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[11]/td[2]/a]
+2020-06-03 12:02:49,378  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a
+2020-06-03 12:02:49,400  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a
+2020-06-03 12:02:49,400  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a]
+2020-06-03 12:02:49,400  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[12]/td[2]/a]
+2020-06-03 12:02:49,400  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a
+2020-06-03 12:02:49,416  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a
+2020-06-03 12:02:49,416  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a]
+2020-06-03 12:02:49,432  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[13]/td[2]/a]
+2020-06-03 12:02:49,432  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a
+2020-06-03 12:02:49,447  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a
+2020-06-03 12:02:49,447  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a]
+2020-06-03 12:02:49,463  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[14]/td[2]/a]
+2020-06-03 12:02:49,463  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a
+2020-06-03 12:02:49,479  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a
+2020-06-03 12:02:49,479  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a]
+2020-06-03 12:02:49,485  INFO [main] TestBase:31 - Fetched value 'Alley3 Yu' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[15]/td[2]/a]
+2020-06-03 12:02:49,485  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a
+2020-06-03 12:02:49,516  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a
+2020-06-03 12:02:49,516  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a]
+2020-06-03 12:02:49,532  INFO [main] TestBase:31 - Fetched value 'Anubhi Golechha' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[16]/td[2]/a]
+2020-06-03 12:02:49,532  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a
+2020-06-03 12:02:49,548  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a
+2020-06-03 12:02:49,548  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a]
+2020-06-03 12:02:49,563  INFO [main] TestBase:31 - Fetched value 'Aparna Manjunath' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[2]/a]
+2020-06-03 12:02:49,563  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a
+2020-06-03 12:02:49,579  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a
+2020-06-03 12:02:49,579  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[8]/a[contains(@href, 'edit')]
+2020-06-03 12:02:49,601  INFO [main] TestBase:31 - Found the element using By.xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[8]/a[contains(@href, 'edit')]
+2020-06-03 12:02:49,601  INFO [main] TestBase:31 - Trying to start the script arguments[0].scrollIntoView(true);
+2020-06-03 12:02:49,617  INFO [main] TestBase:31 - Completed the script 'arguments[0].scrollIntoView(true);'
+2020-06-03 12:02:49,686  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[8]/a[contains(@href, 'edit')]]
+2020-06-03 12:02:51,406  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //form[@id='vContactsForm']/table/tbody/tr[17]/td[8]/a[contains(@href, 'edit')]]
+2020-06-03 12:02:51,406  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //select[@class='select'][@name='title']
+2020-06-03 12:02:51,422  INFO [main] TestBase:31 - Found the element using By.xpath: //select[@class='select'][@name='title']
+2020-06-03 12:02:51,422  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]
+2020-06-03 12:02:51,437  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]
+2020-06-03 12:02:51,484  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]
+2020-06-03 12:02:51,537  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]
+2020-06-03 12:02:51,569  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]]
+2020-06-03 12:02:51,986  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@class='button'][contains(@onclick, 'CLIENT')]]
+2020-06-03 12:02:51,986  INFO [main] TestBase:31 - Trying to switch to window 6442451002
+2020-06-03 12:02:52,007  INFO [main] TestBase:31 - Intended to switch to window '6442451002', navigated to window '6442451002
+2020-06-03 12:02:52,339  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //span[@header='help_header']
+2020-06-03 12:02:52,355  INFO [main] TestBase:31 - Found the element using By.xpath: //span[@header='help_header']
+2020-06-03 12:02:52,355  INFO [main] TestBase:31 - Trying to get text value from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //span[@header='help_header']]
+2020-06-03 12:02:52,370  INFO [main] TestBase:31 - Fetched value 'Company lookup' from element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //span[@header='help_header']]
+2020-06-03 12:02:52,370  INFO [main] TestBase:31 - Trying to find the element using By.id: search
+2020-06-03 12:02:52,386  INFO [main] TestBase:31 - Found the element using By.id: search
+2020-06-03 12:02:52,408  INFO [main] TestBase:31 - Before value: Google, expected to be set to: ?a
+2020-06-03 12:02:52,447  INFO [main] TestBase:31 - Intended to set value: ?a, value that has been set: Google
+2020-06-03 12:02:52,463  INFO [main] TestBase:31 - Before value: Google, expected to be set to: ?
+2020-06-03 12:02:52,494  INFO [main] TestBase:31 - Intended to set value: ?, value that has been set: 
+2020-06-03 12:02:52,524  INFO [main] TestBase:31 - Before value: , expected to be set to: Flipkart
+2020-06-03 12:02:52,555  INFO [main] TestBase:31 - Intended to set value: Flipkart, value that has been set: Flipkart
+2020-06-03 12:02:52,571  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='submit'][@value='Search']
+2020-06-03 12:02:52,587  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='submit'][@value='Search']
+2020-06-03 12:02:52,624  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='submit'][@value='Search']
+2020-06-03 12:02:52,640  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='submit'][@value='Search']
+2020-06-03 12:02:52,671  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='submit'][@value='Search']]
+2020-06-03 12:02:53,907  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='submit'][@value='Search']]
+2020-06-03 12:02:54,915  INFO [main] TestBase:31 - Trying to find the element using By.linkText: Flipkart
+2020-06-03 12:02:54,917  INFO [main] TestBase:31 - Found the element using By.linkText: Flipkart
+2020-06-03 12:04:01,507  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> link text: Flipkart]
+2020-06-03 12:04:01,755  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> link text: Flipkart]
+2020-06-03 12:04:06,333  INFO [main] TestBase:31 - Trying to switch to window 18
+2020-06-03 12:04:06,351  INFO [main] TestBase:31 - Intended to switch to window '18', navigated to window '18
+2020-06-03 12:04:06,351  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='radio'][@name='receive_email'][@value='Y']
+2020-06-03 12:04:06,367  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='radio'][@name='receive_email'][@value='Y']
+2020-06-03 12:04:06,433  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='radio'][@name='receive_email'][@value='Y']
+2020-06-03 12:04:06,449  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='radio'][@name='receive_email'][@value='Y']
+2020-06-03 12:04:06,486  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='radio'][@name='receive_email'][@value='Y']]
+2020-06-03 12:04:06,719  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='radio'][@name='receive_email'][@value='Y']]
+2020-06-03 12:04:06,719  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //select[@name='suffix']
+2020-06-03 12:04:06,734  INFO [main] TestBase:31 - Found the element using By.xpath: //select[@name='suffix']
+2020-06-03 12:04:06,750  INFO [main] TestBase:31 - Trying to find the element using By.xpath: .//option[normalize-space(.) = "Sr."]
+2020-06-03 12:04:06,765  INFO [main] TestBase:31 - Found the element using By.xpath: .//option[normalize-space(.) = "Sr."]
+2020-06-03 12:04:06,765  INFO [main] TestBase:31 - Trying to click on element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //select[@name='suffix']]] -> xpath: .//option[normalize-space(.) = "Sr."]]
+2020-06-03 12:04:07,004  INFO [main] TestBase:31 - Clicked on element [[[[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //select[@name='suffix']]] -> xpath: .//option[normalize-space(.) = "Sr."]]
+2020-06-03 12:04:07,004  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='submit'][@value='Save']
+2020-06-03 12:04:07,019  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='submit'][@value='Save']
+2020-06-03 12:04:07,050  INFO [main] TestBase:31 - Trying to find the element using By.xpath: //input[@type='submit'][@value='Save']
+2020-06-03 12:04:07,066  INFO [main] TestBase:31 - Found the element using By.xpath: //input[@type='submit'][@value='Save']
+2020-06-03 12:04:07,104  INFO [main] TestBase:31 - Trying to click on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='submit'][@value='Save']]
+2020-06-03 12:04:11,425  INFO [main] TestBase:31 - Clicked on element [[FirefoxDriver: firefox on WINDOWS (0236fa45-90a0-4222-b597-02d460383bc9)] -> xpath: //input[@type='submit'][@value='Save']]
+2020-06-03 12:04:11,442  INFO [main] TestBase:31 - Contact edited successfully
+2020-06-03 12:04:11,442  INFO [main] TestBase:31 - Completed Method: editContact
+2020-06-03 12:04:13,414 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-06-03 12:04:13,416 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-06-03 12:04:13,416 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-06-03 12:04:13,417 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-06-03 12:04:13,417 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aparn/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-06-03 12:04:13,495 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-06-03 12:04:13,495 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-06-03 12:04:13,495 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-06-03 12:04:13,495 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-06-03 12:04:13,495 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/aparn/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-06-03 12:04:13,558  INFO [main] TestBase:31 - Closed HTML Report

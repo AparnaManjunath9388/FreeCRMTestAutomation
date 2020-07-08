@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CRMPRO Test Automation Suite">
+	
+  <test thread-count="5" name="Login Page Test cases" description="Covers all the scenarios of Login Page">
+    <classes>
+    	<parameter name="ExcelDataRow" value="1"/>
+    	<class name="com.crm.qa.automation.testcases.LoginPageTestcases"/>    
+    </classes>
+  </test> <!-- Login Page Test cases -->
+   <test thread-count="5" name="Home Page Test cases" description="Covers all the scenarios of Home Page">
+    <classes>
+    	<parameter name="ExcelDataRow" value="1-1,1-2"/>
+      	<class name="com.crm.qa.automation.testcases.HomePageTestcases"/>
+    </classes>
+  </test> <!-- Contacts Page Test cases -->
+     <test thread-count="5" name="Contacts Page Test cases" description="Covers all the scenarios of Contacts Page">
+    <classes>
+    	<parameter name="ExcelDataRow" value="1-1,1-2"/>
+      	<class name="com.crm.qa.automation.testcases.ContactsPageTestcases"/>
+    </classes>
+  </test> <!-- Contacts Page Test cases -->
+  
+</suite> <!-- CRMPRO Test Automation Suite -->

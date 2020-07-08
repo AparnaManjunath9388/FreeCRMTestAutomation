@@ -1,0 +1,76 @@
+
+login.username=name:username
+login.password=name:password
+login.preloader=xpath://div[@id='preloader']
+login.loginBtn=xpath://input[@type=\"submit\"]
+login.signUpLink=linktext:Sign Up
+login.logoImage=xpath://img[contains(@src, 'logo.png')]
+login.defaultPageCenterText=xpath://div[@id='slide_1']/h1[@class='skrollable skrollable-between']
+login.leftArrowLink=xpath://i[@class='fa fa-chevron-left']
+login.rightArrowLink=xpath://i[@class='fa fa-chevron-right']
+login.messageBoxLink=xpath://path[@fillrule='evenodd']
+
+home.loggedInUser=xpath://td[contains(text(),'username')]
+home.dealsLink=linktext:Deals
+home.searchBox=xpath://input[@class='select'][@type='text']
+home.selectTarget=name:search_target
+home.searchBtn=xpath://input[contains(@src, 'search.gif')]
+home.quickCreate=partiallinktext:Quick Create
+home.leftMenuItems=xpath://td[@class='noprint']/div[@id='leftMenuContainer']/div/ul/li
+home.quickCreatebox=xpath://div[@id='ibox_footer_wrapper']/div[@id='ibox_footer']
+home.quickCreateCompany=xpath://input[@name='company_name']
+home.quickCreateFirstName=xpath://input[@name='contact_first_name']
+home.quickCreateLastName=xpath://input[@name='contact_surname']
+home.quickCreateBtn=xpath://input[@type='button'][@value='Create']
+home.quickCreateSaveBtn=xpath://input[@type='button'][@value='Save']
+home.quickCreateCloseBtn=xpath://input[@type='button'][@value='Close']
+home.contactsLink=xpath://a[@title='Contacts']
+home.quickCreateOverlay=xpath://*[@id="ibox_overlay"]
+home.addBoxLink=partiallinktext:Add Boxes
+home.addBox=xpath://div[@id="ibox_footer"]
+home.BoxToSelect=id:box_id
+home.BoxLocation=id:column
+home.addBtn=xpath://input[@type='button'][@value='Add']
+home.CalendarBox=xpath://div[@id='homebox_CALENDAR']
+home.quickCreateBoxOnHome=xpath://div[@id='position']/div[@id='homebox_QUICKCREATE']
+home.thisWeek=xpath://div[@id='position']/div[@id='handle_THISWEEK']
+home.callListBox=xpath://div[@id='position']/div[@id='handle_CALLLIST']
+home.emailCampaignsBox=xpath://div[@id='position']/div[@id='handle_EMAILCAMP']
+home.crmproNews=xpath://div[@id='position']/div[@id='homebox_CRMBLOG']
+home.tagListBox=xpath://div[@id='position']/div[@id='homebox_TAGLIST']
+home.weekCalendar=xpath://div[@id='position']/div[@id='handle_CALWEEK']
+home.dayCalendar=xpath://div[@id='position']/div[@id='handle_CALDAY']
+home.flaggedRecords=xpath://div[@id='position']/div[@id='homebox_RECFLAGS']
+home.scheduledCalls=xpath://div[@id='position']/div[@id='homebox_SCHEDCALLS']
+home.homeLink=xpath://a[@title='Home']
+
+
+contacts.advancedSearchBtn=xpath://input[@id='btn_cs_search'][@value='+']
+contacts.startLetterElements=xpath://td[@class='a2z']
+contacts.selectedFirstLetter=xpath://form[@id='vContactsForm']/table/tbody/tr[1]/td[@class='datacardtitle']/table/tbody/tr[1]/td[@class='datacardtitle'][@align='left']
+contacts.pageIndex=xpath://form[@id='vContactsForm']/table/tbody/tr[2]/td[@align='left']/div/a
+contacts.allContactRows=xpath://form[@id='vContactsForm']/table/tbody/tr
+contacts.contactColumnInTable=xpath://form[@id='vContactsForm']/table/tbody/tr[rownum]/td[2]/a
+contacts.newContactLink=xpath://a[@title='New Contact']
+contacts.newContactTitle=xpath://select[@class='select'][@name='title']
+contacts.newContactFirstName=xpath://input[@id='first_name']
+contacts.newContactSurname=xpath://input[@id='surname']
+contacts.newContactSuffix=xpath://select[@name='suffix']
+contacts.newContactImageFile=id:image_file
+contacts.newContactCompanyLookup=xpath://input[@class='button'][contains(@onclick, 'CLIENT')]
+contacts.newContactReceiveEmailY=xpath://input[@type='radio'][@name='receive_email'][@value='Y']
+contacts.newContactReceiveEmailN=xpath://input[@type='radio'][@name='receive_email'][@value='N']
+contacts.newContactBirthday=id:f_trigger_c_birthday
+contacts.newContactSave=xpath://input[@type='submit'][@value='Save']
+contacts.calendarBox=xpath://div[@class='calendar'][contains(@style, 'block')]
+contacts.previousYear=xpath://div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[1]/div
+contacts.calendarTitle=xpath://div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[1]/td[@class='title']
+contacts.calendarPreviousMonth=xpath://div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[2]/div
+contacts.calendarNextMonth=xpath://div[@class='calendar'][contains(@style, 'block')]/table/thead/tr[@class='headrow']/td[4]/div
+contacts.editContact=xpath://form[@id='vContactsForm']/table/tbody/tr[rownum]/td[8]/a[contains(@href, 'edit')]
+
+searchWin.title=xpath://span[@header='help_header']
+searchWin.searchBox=id:search
+searchWin.searchBtn=xpath://input[@type='submit'][@value='Search']
+
+

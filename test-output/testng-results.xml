@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="17" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CRMPRO Test Automation Suite" duration-ms="310463" started-at="2020-06-03T06:29:03Z" finished-at="2020-06-03T06:34:13Z">
+    <groups>
+    </groups>
+    <test name="Login Page Test cases" duration-ms="40589" started-at="2020-06-03T06:29:03Z" finished-at="2020-06-03T06:29:43Z">
+      <class name="com.crm.qa.automation.testcases.LoginPageTestcases">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="BeforeTest" is-config="true" duration-ms="15125" started-at="2020-06-03T06:29:03Z" finished-at="2020-06-03T06:29:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="initialSetUp(java.lang.String)[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="initialSetUp" is-config="true" duration-ms="2870" started-at="2020-06-03T06:29:18Z" finished-at="2020-06-03T06:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.LoginPageTestcases.verifyPageTitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:1, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="verifyPageTitle" duration-ms="18" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="AfterEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.LoginPageTestcases.verifyLogoImage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="verifyLogoImage()[pri:2, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="verifyLogoImage" duration-ms="158" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoImage -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.LoginPageTestcases.verifyLinksPresence()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="AfterEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="verifyLinksPresence()[pri:3, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="verifyLinksPresence" duration-ms="524" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinksPresence -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.LoginPageTestcases.verifyPageCenterText()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="verifyPageCenterText()[pri:4, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="verifyPageCenterText" duration-ms="31" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageCenterText -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="AfterEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="verifyLinksDisplayed()[pri:5, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="verifyLinksDisplayed" duration-ms="849" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinksDisplayed -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.LoginPageTestcases.verifyLinksDisplayed()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="AfterEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:21Z" finished-at="2020-06-03T06:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="AfterEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:22Z" finished-at="2020-06-03T06:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:29:22Z" finished-at="2020-06-03T06:29:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.LoginPageTestcases.loginUnsuccessful() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="loginUnsuccessful()[pri:6, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="loginUnsuccessful" duration-ms="5775" started-at="2020-06-03T06:29:22Z" finished-at="2020-06-03T06:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUnsuccessful -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="AfterEachMethod" is-config="true" duration-ms="2" started-at="2020-06-03T06:29:28Z" finished-at="2020-06-03T06:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="beforeEachMethod" is-config="true" duration-ms="1" started-at="2020-06-03T06:29:28Z" finished-at="2020-06-03T06:29:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.LoginPageTestcases.loginToApplication() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="loginToApplication()[pri:7, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="loginToApplication" duration-ms="7661" started-at="2020-06-03T06:29:28Z" finished-at="2020-06-03T06:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="AfterEachMethod" is-config="true" duration-ms="1" started-at="2020-06-03T06:29:36Z" finished-at="2020-06-03T06:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.automation.testcases.LoginPageTestcases@5ab9e72c]" name="tearDown" is-config="true" duration-ms="7499" started-at="2020-06-03T06:29:36Z" finished-at="2020-06-03T06:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.automation.testcases.LoginPageTestcases -->
+    </test> <!-- Login Page Test cases -->
+    <test name="Home Page Test cases" duration-ms="37213" started-at="2020-06-03T06:29:43Z" finished-at="2020-06-03T06:30:20Z">
+      <class name="com.crm.qa.automation.testcases.HomePageTestcases">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="BeforeTest" is-config="true" duration-ms="13765" started-at="2020-06-03T06:29:43Z" finished-at="2020-06-03T06:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="initialSetUp(java.lang.String)[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="initialSetUp" is-config="true" duration-ms="8389" started-at="2020-06-03T06:29:57Z" finished-at="2020-06-03T06:30:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1-1,1-2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:30:05Z" finished-at="2020-06-03T06:30:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.HomePageTestcases.verifyPageTitle() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:1, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="verifyPageTitle" duration-ms="0" started-at="2020-06-03T06:30:05Z" finished-at="2020-06-03T06:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="AfterEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:30:05Z" finished-at="2020-06-03T06:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:30:05Z" finished-at="2020-06-03T06:30:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.HomePageTestcases.verifyLoggedInUser() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="verifyLoggedInUser()[pri:2, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="verifyLoggedInUser" duration-ms="56" started-at="2020-06-03T06:30:05Z" finished-at="2020-06-03T06:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoggedInUser -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="AfterEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:30:05Z" finished-at="2020-06-03T06:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="addBoxAndVerify()[pri:4, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="addBoxAndVerify" duration-ms="5922" started-at="2020-06-03T06:30:05Z" finished-at="2020-06-03T06:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBoxAndVerify -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:30:05Z" finished-at="2020-06-03T06:30:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.HomePageTestcases.addBoxAndVerify()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="AfterEachMethod" is-config="true" duration-ms="1" started-at="2020-06-03T06:30:11Z" finished-at="2020-06-03T06:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="beforeEachMethod" is-config="true" duration-ms="1" started-at="2020-06-03T06:30:11Z" finished-at="2020-06-03T06:30:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.HomePageTestcases.searchInHome() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="searchInHome()[pri:5, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="searchInHome" duration-ms="3241" started-at="2020-06-03T06:30:11Z" finished-at="2020-06-03T06:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInHome -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="AfterEachMethod" is-config="true" duration-ms="1" started-at="2020-06-03T06:30:15Z" finished-at="2020-06-03T06:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="afterClass" is-config="true" duration-ms="15" started-at="2020-06-03T06:30:15Z" finished-at="2020-06-03T06:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.automation.testcases.HomePageTestcases@152aa092]" name="tearDown" is-config="true" duration-ms="5792" started-at="2020-06-03T06:30:15Z" finished-at="2020-06-03T06:30:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.automation.testcases.HomePageTestcases -->
+    </test> <!-- Home Page Test cases -->
+    <test name="Contacts Page Test cases" duration-ms="232615" started-at="2020-06-03T06:30:20Z" finished-at="2020-06-03T06:34:13Z">
+      <class name="com.crm.qa.automation.testcases.ContactsPageTestcases">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="BeforeSuite" is-config="true" duration-ms="298" started-at="2020-06-03T06:29:02Z" finished-at="2020-06-03T06:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="BeforeTest" is-config="true" duration-ms="12202" started-at="2020-06-03T06:30:20Z" finished-at="2020-06-03T06:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="initialSetUp(java.lang.String)[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="initialSetUp" is-config="true" duration-ms="8182" started-at="2020-06-03T06:30:33Z" finished-at="2020-06-03T06:30:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1-1,1-2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:30:41Z" finished-at="2020-06-03T06:30:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.ContactsPageTestcases.addNewContact()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="addNewContact()[pri:1, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="addNewContact" duration-ms="112217" started-at="2020-06-03T06:30:41Z" finished-at="2020-06-03T06:32:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewContact -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="AfterEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:32:33Z" finished-at="2020-06-03T06:32:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="editContact()[pri:2, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="editContact" duration-ms="97959" started-at="2020-06-03T06:32:33Z" finished-at="2020-06-03T06:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editContact -->
+        <test-method status="PASS" signature="beforeEachMethod(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="beforeEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:32:33Z" finished-at="2020-06-03T06:32:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.automation.testcases.ContactsPageTestcases.editContact()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="AfterEachMethod" is-config="true" duration-ms="0" started-at="2020-06-03T06:34:11Z" finished-at="2020-06-03T06:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="afterClass" is-config="true" duration-ms="16" started-at="2020-06-03T06:34:11Z" finished-at="2020-06-03T06:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="tearDown" is-config="true" duration-ms="2006" started-at="2020-06-03T06:34:11Z" finished-at="2020-06-03T06:34:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.crm.qa.automation.testcases.ContactsPageTestcases@306cf3ea]" name="AfterSuite" is-config="true" duration-ms="78" started-at="2020-06-03T06:34:13Z" finished-at="2020-06-03T06:34:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- com.crm.qa.automation.testcases.ContactsPageTestcases -->
+    </test> <!-- Contacts Page Test cases -->
+  </suite> <!-- CRMPRO Test Automation Suite -->
+</testng-results>
